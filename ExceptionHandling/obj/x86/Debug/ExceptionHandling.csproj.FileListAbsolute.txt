@@ -1,0 +1,5 @@
+C:\Project VIsual studion\Exercise-Exception-Handling-OOP\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Project VIsual studion\Exercise-Exception-Handling-OOP\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Project VIsual studion\Exercise-Exception-Handling-OOP\ExceptionHandling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project VIsual studion\Exercise-Exception-Handling-OOP\ExceptionHandling\obj\x86\Debug\ExceptionHandling.exe
+C:\Project VIsual studion\Exercise-Exception-Handling-OOP\ExceptionHandling\obj\x86\Debug\ExceptionHandling.pdb
